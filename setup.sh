@@ -33,7 +33,7 @@ akbarvpnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/xray"
 # Link Hosting Kalian Untuk Ipsec
 akbarvpnnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/ipsec"
 # Link Hosting Kalian Untuk Backup
-akbarvpnnnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/backup"
+akbarvpnnnnnnnn="https://github.com/rezavpn/scriptvpsreza/tree/main/backup"
 # Link Hosting Kalian Untuk Websocket
 akbarvpnnnnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/websocket"
 # Link Hosting Kalian Untuk Ohp
