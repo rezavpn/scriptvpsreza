@@ -18,7 +18,7 @@ akbarvpn="raw.githubusercontent.com/senowahyu62/scriptvps/main/backup"
 
 apt install rclone -y
 printf "q\n" | rclone config
-wget -O /root/.config/rclone/rclone.conf "https://github.com/rezavpn/scriptvpsreza/blob/main/backup/rclone.conf"
+wget -O /root/.config/rclone/rclone.conf "https://raw.githubusercontent.com/rezavpn/scriptvpsreza/main/backup/rclone.conf"
 git clone  https://github.com/magnific0/wondershaper.git
 cd wondershaper
 make install
